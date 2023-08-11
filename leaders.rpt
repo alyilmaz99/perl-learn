@@ -1,0 +1,256 @@
+| People   | Country     | Phone      | Price |
+|----------|-------------|------------|-------|
+| merkel   | germany     | iphone7    | 800   |
+| macron   | france      | oneplus6   | 350   |
+| modi     | india       | pixel3     | 400   |
+| abe      | japan       | xiaomi9    | 250   |
+| putin    | russia      | huaweiP30  | 550   |
+| moon     | korea       | lgG8       | 300   |
+| merino   | peru        | motorola7  | 150   |
+| trudeau  | canada      | sonyXZ     | 280   |
+| morrison | australia   | oppoReno   | 320   |
+| amlo     | mexico      | nokia6     | 180   |
+| angela   | germany     | galaxyS9   | 420   |
+| emmanuel | france      | redmiNote9 | 230   |
+| narendra | india       | oneplus8T  | 480   |
+| shinzo   | japan       | xiaomi10   | 330   |
+| vladimir | russia      | samsungA51 | 270   |
+| jinwook  | korea       | lgV60      | 380   |
+| isabella | italy       | iphoneSE   | 560   |
+| felipe   | spain       | oppoA5     | 190   |
+| justin   | canada      | pixel4a    | 310   |
+| andres   | colombia    | motoGPower | 140   |
+| boris    | britain     | huaweiP40  | 500   |
+| angela   | germany     | iphone12   | 850   |
+| emmanuel | france      | galaxyA71  | 390   |
+| narendra | india       | redmiK20   | 240   |
+| shinzo   | japan       | oneplus7T  | 460   |
+| vladimir | russia      | xiaomiMi11 | 600   |
+| jinwook  | korea       | samsungS20 | 330   |
+| isabella | italy       | lgVelvet   | 280   |
+| felipe   | spain       | pixel5     | 380   |
+| justin   | canada      | motoGStylus| 200   |
+| andres   | colombia    | iphone11   | 540   |
+| boris    | britain     | oppoF19    | 310   |
+| angela   | germany     | realmeX7   | 170   |
+| emmanuel | france      | huaweiMate | 430   |
+| narendra | india       | galaxyNote | 280   |
+| shinzo   | japan       | pixel4a5G  | 360   |
+| vladimir | russia      | motoG9     | 250   |
+| jinwook  | korea       | redmiNote8 | 320   |
+| isabella | italy       | oneplusN10 | 180   |
+| felipe   | spain       | xiaomiCC9  | 430   |
+| justin   | canada      | samsungM51 | 310   |
+| andres   | colombia    | lgStylo    | 150   |
+| boris    | britain     | iphoneSE2  | 290   |
+| angela   | germany     | oppoA92    | 220   |
+| emmanuel | france      | pixel3a    | 470   |
+| narendra | india       | motoG8     | 230   |
+| shinzo   | japan       | galaxyA50  | 340   |
+| vladimir | russia      | redmiNote7 | 200   |
+| jinwook  | korea       | oneplus6T  | 410   |
+| isabella | italy       | xiaomiMi9  | 290   |
+| felipe   | spain       | samsungA31 | 170   |
+| justin   | canada      | lgG7       | 380   |
+| andres   | colombia    | iphoneXR   | 320   |
+| boris    | britain     | oppoF17    | 260   |
+| angela   | germany     | realme7    | 350   |
+| emmanuel | france      | huaweiP20  | 240   |
+| narendra | india       | galaxyS8   | 420   |
+| shinzo   | japan       | pixel2     | 300   |
+| vladimir | russia      | motoG6     | 190   |
+| jinwook  | korea       | redmiNote6 | 330   |
+| isabella | italy       | oneplus5T  | 250   |
+| felipe   | spain       | xiaomiMi8  | 290   |
+| justin   | canada      | samsungS9  | 210   |
+| andres   | colombia    | lgG6       | 340   |
+| boris    | britain     | iphone8    | 270   |
+| angela   | germany     | oppoA5s    | 310   |
+| emmanuel | france      | realme6    | 180   |
+| narendra | india       | huaweiP10  | 380   |
+| shinzo   | japan       | galaxyA30  | 260   |
+| vladimir | russia      | pixelXL    | 430   |
+| jinwook  | korea       | motoG5     | 290   |
+| isabella | italy       | redmi7     | 170   |
+| felipe   | spain       | oneplus3T  | 350   |
+| justin   | canada      | xiaomiMi6  | 220   |
+| andres   | colombia    | samsungA5  | 300   |
+| boris    | britain     | iphone7    | 250   |
+| angela   | germany     | oppoF3     | 280   |
+| emmanuel | france      | realme5    | 160   |
+| narendra | india       | huaweiP9   | 360   |
+| shinzo   | japan       | galaxyA20  | 240   |
+| vladimir | russia      | pixel2XL   | 420   |
+| jinwook  | korea       | motoG4     | 280   |
+| isabella | italy       | redmi6     | 150   |
+| felipe   | spain       | oneplus2   | 330   |
+| justin   | canada      | xiaomiMi5  | 210   |
+| andres   | colombia    | samsungJ7  | 290   |
+| boris    | britain     | iphone6    | 230   |
+| angela   | germany     | oppoF1s    | 260   |
+| emmanuel | france      | realme4    | 140   |
+| narendra | india       | huaweiP8   | 350   |
+| shinzo   | japan       | galaxyA10| 230   |
+| vladimir | russia      | pixel    | 400   |
+| jinwook  | korea       | motoG3   | 270   |
+| isabella | italy       | redmi5   | 130   |
+| felipe   | spain       | oneplusX | 310   |
+| justin   | canada      | xiaomiMi4| 200   |
+| andres   | colombia    | samsungJ5| 270   |
+| boris    | britain     | iphone5c | 220   |
+| angela   | germany     | oppoA3   | 240   |
+| emmanuel | france      | realme3  | 120   |
+| narendra | india       | huaweiP7 | 330   |
+| shinzo   | japan       | galaxyS6 | 210   |
+| vladimir | russia      | nexus6P  | 380   |
+| jinwook  | korea       | motoG2   | 260   |
+| isabella | italy       | redmi4   | 110   |
+| felipe   | spain       | oneplus1 | 290   |
+| justin   | canada      | xiaomiMi3| 190   |
+| andres   | colombia    | samsungJ3| 250   |
+| boris    | britain     | iphone4s | 210   |
+| angela   | germany     | oppoA1   | 220   |
+| emmanuel | france      | realme2  | 100   |
+| narendra | india       | huaweiP6 | 310   |
+| shinzo   | japan       | galaxyS5 | 200   |
+| vladimir | russia      | nexus5X  | 360   |
+| jinwook  | korea       | motoG1   | 250   |
+| isabella | italy       | redmi3   | 100   |
+| felipe   | spain       | oneplusN | 280   |
+| justin   | canada      | xiaomiMi2| 180   |
+| andres   | colombia    | samsungJ2| 230   |
+| boris    | britain     | iphone4  | 200   |
+| angela   | germany     | oppoA0   | 210   |
+| emmanuel | france      | realme1  | 90    |
+| narendra | india       | huaweiP5 | 290   |
+| shinzo   | japan       | galaxyS4 | 190   |
+| vladimir | russia      | nexus5   | 340   |
+| jinwook  | korea       | motoE    | 240   |
+| isabella | italy       | redmi2   | 90    |
+| felipe   | spain       | oneplusZ | 270   |
+| justin   | canada      | xiaomiMi1| 170   |
+| andres   | colombia    | samsungJ1| 210   |
+| boris    | britain     | iphone3  | 180   |
+| angela   | germany     | oppoR9   | 200   |
+| emmanuel | france      | realmeX  | 80    |
+| narendra | india       | huaweiP4 | 270   |
+| shinzo   | japan       | galaxyS3 | 180   |
+| vladimir | russia      | nexus4   | 320   |
+| jinwook  | korea       | motoD    | 230   |
+| isabella | italy       | redmi1   | 80    |
+| felipe   | spain       | oneplusY | 260   |
+| justin   | canada      | xiaomiMi0| 160   |
+| andres   | colombia    | samsungJ0| 200   |
+| boris    | britain     | iphone2  | 160   |
+| angela   | germany     | oppoR7   | 180   |
+| emmanuel | france      | realmeY  | 70    |
+| narendra | india       | huaweiP3 | 250   |
+| shinzo   | japan       | galaxyS2 | 170   |
+| vladimir | russia      | nexus3   | 300   |
+| jinwook  | korea       | motoC    | 220   |
+| isabella | italy       | redmi0   | 70    |
+| felipe   | spain       | oneplusX1| 240   |
+| justin   | canada      | xiaomi9  | 150   |
+| andres   | colombia    | samsungI9| 190   |
+| boris    | britain     | iphone1  | 140   |
+| angela   | germany     | oppoR5   | 160   |
+| emmanuel | france      | realmeZ  | 60    |
+| narendra | india       | huaweiP2 | 230   |
+| shinzo   | japan       | galaxyS1 | 160   |
+| vladimir | russia      | nexus2   | 280   |
+| jinwook  | korea       | motoB    | 210   |
+| isabella | italy       | redmiX   | 60    |
+| felipe   | spain       | oneplusW | 230   |
+| justin   | canada      | xiaomi8  | 140   |
+| andres   | colombia    | samsungI8| 180   |
+| boris    | britain     | iphone0  | 130   |
+| angela   | germany     | oppoR3   | 150   |
+| emmanuel | france      | realmeA  | 50    |
+| narendra | india       | huaweiP1 | 210   |
+| shinzo   | japan       | galaxyS0 | 150   |
+| vladimir | russia      | nexus1   | 260   |
+| jinwook  | korea       | motoA    | 200   |
+| isabella | italy       | redmiZ   | 50    |
+| felipe   | spain       | oneplusV | 220   |
+| justin   | canada      | xiaomi7  | 130   |
+| andres   | colombia    | samsungI7| 170   |
+| boris    | britain     | iphoneX  | 120   |
+| angela   | germany     | oppoR1   | 140   |
+| emmanuel | france      | realmeB  | 40    |
+| narendra | india       | huaweiR9 | 190   |
+| shinzo   | japan       | galaxyR8 | 140   |
+| vladimir | russia      | nexusR7  | 240   |
+| jinwook  | korea       | motoR6  | 190   |
+| isabella | italy       | redmiR5   | 40    |
+| felipe   | spain       | oneplusR4| 210   |
+| justin   | canada      | xiaomiR3  | 120   |
+| andres   | colombia    | samsungR2| 160   |
+| boris    | britain     | iphoneR1 | 110   |
+| angela   | germany     | oppoR0   | 130   |
+| emmanuel | france      | realmeR9  | 30    |
+| narendra | india       | huaweiR8 | 180   |
+| shinzo   | japan       | galaxyR7 | 130   |
+| vladimir | russia      | nexusR6  | 220   |
+| jinwook  | korea       | motoR5   | 180   |
+| isabella | italy       | redmiR4  | 30    |
+| felipe   | spain       | oneplusR3| 200   |
+| justin   | canada      | xiaomiR2  | 110   |
+| andres   | colombia    | samsungR1| 150   |
+| boris    | britain     | iphoneR0 | 100   |
+| angela   | germany     | oppoE9   | 120   |
+| emmanuel | france      | realmeE8  | 20    |
+| narendra | india       | huaweiE7 | 170   |
+| shinzo   | japan       | galaxyE6 | 120   |
+| vladimir | russia      | nexusE5  | 200   |
+| jinwook  | korea       | motoE4   | 170   |
+| isabella | italy       | redmiE3  | 20    |
+| felipe   | spain       | oneplusE2| 190   |
+| justin   | canada      | xiaomiE1 | 100   |
+| andres   | colombia    | samsungE0| 140   |
+| boris    | britain     | iphoneE9 | 90    |
+| angela   | germany     | oppoE8   | 110   |
+| emmanuel | france      | realmeE7  | 10    |
+| narendra | india       | huaweiE6 | 160   |
+| shinzo   | japan       | galaxyE5 | 110   |
+| vladimir | russia      | nexusE4  | 180   |
+| jinwook  | korea       | motoE3   | 160   |
+| isabella | italy       | redmiE2  | 10    |
+| felipe   | spain       | oneplusE1| 180   |
+| justin   | canada      | xiaomiE0 | 90    |
+| andres   | colombia    | samsungE9| 130   |
+| boris    | britain     | iphoneE8 | 80    |
+| angela   | germany     | oppoE7   | 100   |
+| emmanuel | france      | realmeE6  | 5     |
+| narendra | india       | huaweiE5 | 150   |
+| shinzo   | japan       | galaxyE4 | 100   |
+| vladimir | russia      | nexusE3  | 160   |
+| jinwook  | korea       | motoE2   | 150   |
+| isabella | italy       | redmiE1  | 5     |
+| felipe   | spain       | oneplusE0| 170   |
+| justin   | canada      | xiaomiC9 | 80    |
+| andres   | colombia    | samsungC8| 120   |
+| boris    | britain     | iphoneC7 | 70    |
+| angela   | germany     | oppoC6   | 90    |
+| emmanuel | france      | realmeC5  | 3     |
+| narendra | india       | huaweiC4 | 140   |
+| shinzo   | japan       | galaxyC3 | 90    |
+| vladimir | russia      | nexusC2  | 150   |
+| jinwook  | korea       | motoC1   | 140   |
+| isabella | italy       | redmiC0  | 3     |
+| felipe   | spain       | oneplusB9| 160   |
+| justin   | canada      | xiaomiB8 | 70    |
+| andres   | colombia    | samsungB7| 110   |
+| boris    | britain     | iphoneB6 | 60    |
+| angela   | germany     | oppoB5   | 80    |
+| emmanuel | france      | realmeB4  | 2     |
+| narendra | india       | huaweiB3 | 130   |
+| shinzo   | japan       | galaxyB2 | 80    |
+| vladimir | russia      | nexusB1  | 140   |
+| jinwook  | korea       | motoB0   | 130   |
+| isabella | italy       | redmiA9  | 2     |
+| felipe   | spain       | oneplusA8| 150   |
+| justin   | canada      | xiaomiA7 | 60    |
+| andres   | colombia    | samsungA6| 100   |
+| boris    | britain     | iphoneA5 | 50    |
+| angela   | germany     | oppoA4   | 70    |
+| emmanuel | france      | realmeA3 | 100 |
